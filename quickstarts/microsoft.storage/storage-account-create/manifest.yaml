@@ -1,6 +1,6 @@
-name: OnboardingSetup
+name: quickstartStorage
 version: 1.0.0
-summary: Onboarding Environment Assets
+summary: Quickstart Storage Account
 description: Deploys an onboarding environment in your subscription for initial connectivity tests.
 runner: ARM
 templatePath: azuredeploy.json
