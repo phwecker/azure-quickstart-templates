@@ -1,4 +1,4 @@
-name: "Quickstart.Storage"
+name: "Storage Account (Quickstart)"
 version: 1.0.0
 summary: Quickstart Storage Account
 description: Deploys an onboarding environment in your subscription for initial connectivity tests.
