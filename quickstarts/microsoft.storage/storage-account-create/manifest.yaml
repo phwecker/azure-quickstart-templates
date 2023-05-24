@@ -1,0 +1,12 @@
+name: OnboardingSetup
+version: 1.0.0
+summary: Onboarding Environment Assets
+description: Deploys an onboarding environment in your subscription for initial connectivity tests.
+runner: ARM
+templatePath: azuredeploy.json
+parameters:
+  - id: storageAccountName
+    name: storageAccountName
+    description: "Name of the Storage Account."
+    type: string
+    required: true
